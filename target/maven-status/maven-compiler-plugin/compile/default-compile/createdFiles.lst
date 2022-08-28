@@ -1,0 +1,6 @@
+com\example\Album\resource\AlbumResource.class
+com\example\Album\repository\AlbumRepository.class
+com\example\Album\AlbumApplication.class
+com\example\Album\ServletInitializer.class
+com\example\Album\model\Album.class
+com\example\Album\service\AlbumService.class
